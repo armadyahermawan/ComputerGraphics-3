@@ -1,5 +1,5 @@
-Name : Armadya Hermawan
-NRP : 5025211243
+Name : Armadya Hermawan <br>
+NRP : 5025211243 <br>
 
 # ComputerGraphics-3
 ## 2D Square From 2 Triangle
