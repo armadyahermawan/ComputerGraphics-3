@@ -3,7 +3,8 @@ NRP : 5025211243 <br>
 
 # ComputerGraphics-3
 ## 2D Square From 2 Triangle
-![Foto](./img/square.png)<br>
+![image](https://github.com/armadyahermawan/ComputerGraphics-3/assets/116743142/7b5d8765-85e2-488f-9fb1-0b6b05aecb8a)
+
 ``` function draw() {
 
     gl.clearColor(0,0,0,1);  // specify the color to be used for clearing
@@ -35,7 +36,8 @@ NRP : 5025211243 <br>
 ```
 
 ## Show Another Side Of The 3d Cube
-![Foto](./img/cube.png)<br>
+![image](https://github.com/armadyahermawan/ComputerGraphics-3/assets/116743142/7c560347-7aac-4cde-827f-c854d2120e41)
+
 ```
         //drawPrimitive(gl.TRIANGLE_FAN, [255, 0, 0, 1], [0, -0.4, 0, 0.5, -0.2, 0, 0.5, 0.3, 0, 0, 0.1, 0]); // front right side (red)
         drawPrimitive(gl.TRIANGLE_FAN, [0, 255, 0, 1], [-0.5, -0.2, -0.5, -0.5, 0.3, -0.5, 0, 0.1, -0.5, 0, -0.4, -0.5]); // front left side (green)
